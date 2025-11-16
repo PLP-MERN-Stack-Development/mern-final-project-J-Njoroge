@@ -293,7 +293,9 @@ The server will automatically serve static files from `client/dist` when `NODE_E
 
 ## 📸 Screenshots
 
-_Add screenshots of your application here_
+<img width="1344" height="629" alt="image" src="https://github.com/user-attachments/assets/381a912d-9f4e-41fa-b684-73faa626a2a6" />
+<img width="1328" height="600" alt="image" src="https://github.com/user-attachments/assets/a55ef234-c403-4feb-8532-c74c5252707b" />
+
 
 ## 🎥 Video Demonstration
 
@@ -302,18 +304,3 @@ _[Add link to your video demonstration here]_
 ## 🌐 Live URL
 
 _[Add your deployed application URL here]_
-
-## 📝 License
-
-This project is part of a MERN Stack Development course assignment.
-
-## 👤 Author
-
-**J. Njoroge**
-
-## 🙏 Acknowledgments
-
-- United Nations SDG 13: Climate Action
-- MongoDB Atlas for database hosting
-- Tailwind CSS for styling
-- Recharts for data visualization 
