@@ -1,0 +1,69 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+dist/
+client/dist/
+build/
+
+# Vite cache
+.vite
+node_modules/.vite
+
+# Local env files
+.env
+.env.local
+.env.*.local
+server/.env
+client/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage and testing
+coverage/
+coverage/**
+
+# Misc
+.cache/
+.parcel-cache/
+*.pem
+*.key
+*.pid
+*.seed
+
+# Optional: lock files if you intentionally don't track them (usually you should commit them)
+# package-lock.json
+
+# Ignore environment-specific files created by editors/OS
+*.log
+npm-debug.log*
+
+# Ignore deployment files
+.env.production
+.env.test
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore generated files from the project
+*.local

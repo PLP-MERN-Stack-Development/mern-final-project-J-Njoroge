@@ -1,0 +1,28 @@
+{
+  "name": "mern-final-project-j-njoroge",
+  "version": "1.0.0",
+  "description": "This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "install:all": "npm i && cd client && npm i && cd ../server && npm i",
+    "build": "cd client && npm run build && cd ../server && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/mern-final-project-J-Njoroge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/mern-final-project-J-Njoroge/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/mern-final-project-J-Njoroge#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
