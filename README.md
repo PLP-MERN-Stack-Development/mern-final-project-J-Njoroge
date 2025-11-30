@@ -299,8 +299,9 @@ The server will automatically serve static files from `client/dist` when `NODE_E
 
 ## 🎥 Video Demonstration
 
-_[Add link to your video demonstration here]_
+WATCH APP WALK THROUGH - https://www.loom.com/share/185db26b41b5412fb2f153aaebbd340f
 
 ## 🌐 Live URL
 
-_[Add your deployed application URL here]_
+Demo - https://eco-pledge-track.lovable.app
+
